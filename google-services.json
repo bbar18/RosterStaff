@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "747101648316",
+    "firebase_url": "https://rosterstaff-d7906.firebaseio.com",
+    "project_id": "rosterstaff-d7906",
+    "storage_bucket": "rosterstaff-d7906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747101648316:android:dab409aadf1d08df",
+        "android_client_info": {
+          "package_name": "com.rosterstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747101648316-abs6951lhng4c0gmacdjcvampkeshc9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosterstaff",
+            "certificate_hash": "63c283b60765654661c53ff40632fbed219debde"
+          }
+        },
+        {
+          "client_id": "747101648316-1h7s0aukq23a296qnn9oot81vcmvuac6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtr3pv-atluQzWfLYQT3cspQtKVKMLDZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747101648316-1h7s0aukq23a296qnn9oot81vcmvuac6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

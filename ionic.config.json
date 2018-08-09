@@ -1,0 +1,7 @@
+{
+  "name": "RosterStaff",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
